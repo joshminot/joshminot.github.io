@@ -1,5 +1,5 @@
 # Josh Minot
 
-## Data science, NLP, and hearty stews
+## Data science, NLP, and social media analysis
 
 PhD student [@uvmcomplexity](https://twitter.com/uvmcomplexity)

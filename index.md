@@ -1,5 +1,9 @@
 # Josh Minot
+Data science, NLP, and social media analysis
+### PhD student [@uvmcomplexity](https://twitter.com/uvmcomplexity)
 
-## Data science, NLP, and social media analysis
+## Blog posts 
+* [post 1](post_1)
 
-PhD student [@uvmcomplexity](https://twitter.com/uvmcomplexity)
+## [About me](resume)
+

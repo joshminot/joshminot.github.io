@@ -15,6 +15,6 @@ The selection criteria introduces some considerations. For instance it will incl
 the Biden or Trump accounts. This is notable especially in Trump's considering his tweets' tendency to attract significant attention
 in the form of response activities---in effect leading RTs of his content to have a disproportionate effect on the ambient sentiment measurement.  
 
-
+*References*
 
 [1] Dodds, Peter Sheridan, et al. "Temporal patterns of happiness and information in a global social network: Hedonometrics and Twitter." PloS one 6.12 (2011): e26752.

@@ -28,7 +28,7 @@ was under or overcounting, at least relative to known state populations.
 Of course, comparing Twitter users (even if the geocoding was perfectly accurate) to state population is 
 a bit of funny comparison to make, but it was largely meant as a reference point. 
 
-![image](./Geocoding_balance_2020MongoDB.png)
+![image](Geoencoding_balance_2020MongoDB.png)
 
 
 #### References 

@@ -4,7 +4,7 @@ I'm currently a PhD student [@uvmcomplexity](https://twitter.com/uvmcomplexity)
 
 
 ## Blog posts 
-* [post 1](blog/post_1)
+* [post 1](blog/post1/post_1)
 
 ## [About me](resume)
 

@@ -1,5 +1,6 @@
 ## [Home](index.md) | [Contact](contact.md)
 
+_"Our database is a complete house of shards"_
 
 #### Data science | NLP | sociotechnical systems
 

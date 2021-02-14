@@ -19,7 +19,7 @@ geographic data [[1]](https://ojs.aaai.org/index.php/ICWSM/article/view/14399).
 
 The other approach that I've seen some colleagues explore involves fuzzy string matching in order to geocode
 the location string in user bios. 
-For this work I was focused on the US and used the python library [uszipcode](https://uszipcode.readthedocs.io/)[2]
+For this work I was focused on the US and used the python library [uszipcode](https://uszipcode.readthedocs.io/)[2].
 The library provides a convenient search engine for matching strings for cities and states with agaisnt known regions. 
 Using regular expressions I extracted user bios that roughly fit templates such as `city, state`, `city, state, country`, etc.
 
@@ -28,7 +28,18 @@ was under or overcounting, at least relative to known state populations.
 Of course, comparing Twitter users (even if the geocoding was perfectly accurate) to state population is 
 a bit of funny comparison to make, but it was largely meant as a reference point. 
 
-![image](Geocoding_balance_2020MongoDB.png)
+After filtering out creative uses of emoji tuning the regular expression, the pipeline produces results that in some cases
+match what we'd expect based on state population data, and in others is clearly off. 
+For instance, California has both the largest tweeting population (by our measure) and is the most populous state. 
+Indiana on the other hand is really hitting above its weight when to comes to tweeting population---I determined this was because
+the geocoding library incorrectly coded strings related to India to Indiana, leading to significant inflation of the results for the state. 
+Washington, DC is a special case where geocoding seems to be somewhat unstable, but there may also be a disproportionate number 
+if users setting the district as their location given its large political crowd and number of commuters from surrounding states. 
+
+![](Geoencoding_balance_2020MongoDB.png "Geobalance")
+Fig. 1: Comparison of geocoded US Twitter bio locations with 2012 US Census.
+
+![](tweet_gain.html)
 
 
 #### References 

@@ -3,7 +3,7 @@
 ## POTUS anchored sentiment
 
 As the 2020 US Presidential election came and went, I was curious how the conversation around Trump and Biden
-responded to current events. Using the LabMT[1] dataset (which underpins the [Hedonometer](hedonometer.org))
+responded to current events. Using the LabMT[1] dataset (which underpins the [Hedonometer](https://hedonometer.org))
 I scored daily word frequency-distributions for Tweets containing the 1-gram `biden` and `trump`.
 From this, we can see how both sentiment time series responded to COVID19, the George Floyd's death, 
 and the January 6th insurrection at the US Capitol. 

@@ -1,9 +1,10 @@
 ## [Home](index.md) | [Contact](contact.md)
 
-# Josh Minot
 #### Data science | NLP | sociotechnical systems
 
-I'm currently a PhD student at the [University of Vermont Complex Systems Center](https://twitter.com/uvmcomplexity) in the [Computational Story Lab](https://twitter.com/compstorylab).
+### About me
+
+My name is Josh Minot and I'm currently a PhD student at the [University of Vermont Complex Systems Center](https://twitter.com/uvmcomplexity) in the [Computational Story Lab](https://twitter.com/compstorylab).
 Broadly interested in the narrative capacities of social movements, data privacy, and interpretable ML. 
 
 

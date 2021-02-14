@@ -1,4 +1,6 @@
-## Fuzzy Geocoding on Tweets
+### [Home](../../index.md) | [Contact](../../contact.md) 
+
+# Fuzzy Geocoding on Tweets
 
 _From a Friday afternoon project on geocoding Twitter-user bios. The results aren't near 
 ready for prime time but were also worth documenting._
@@ -37,6 +39,8 @@ was under or overcounting, at least relative to known state populations.
 Of course, comparing Twitter users (even if the geocoding was perfectly accurate) to state population is 
 a bit of funny comparison to make, but it was largely meant as a reference point. 
 
+![](Geoencoding_balance_2020MongoDB.png "Geobalance")
+Fig. 2: Comparison of geocoded US Twitter bio locations with 2012 US Census.
 
 After filtering out creative uses of emoji tuning the regular expression, the pipeline produces results that in some cases
 match what we'd expect based on state population data, and in others is clearly off. 
@@ -46,8 +50,7 @@ the geocoding library incorrectly coded strings related to India to Indiana, lea
 Washington, DC is a special case where geocoding seems to be somewhat unstable, but there may also be a disproportionate number 
 if users setting the district as their location given its large political crowd and number of commuters from surrounding states. 
 
-![](Geoencoding_balance_2020MongoDB.png "Geobalance")
-Fig. 2: Comparison of geocoded US Twitter bio locations with 2012 US Census.
+
 
 
 

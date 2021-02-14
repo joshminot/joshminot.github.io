@@ -1,16 +1,20 @@
+## [Home](index.md) | [Contact](contact.md)
+
 # Josh Minot
-#### Data science | NLP | social movements
+#### Data science | NLP | sociotechnical systems
 
 I'm currently a PhD student [@uvmcomplexity](https://twitter.com/uvmcomplexity) in the [Computational Story Lab](https://twitter.com/compstorylab).
 Broadly interested in the narrative capacities of social movements, data privacy, and interpretable ML. 
 
 
-###### Projects with the story lab team include [StoryWrangler](storywrangling.org), [hedonometer](hedonomter.org), and [POSUTometer](http://compstorylab.org/potusometer/).
+#### Projects with the story lab team include [StoryWrangler](storywrangling.org), [hedonometer](hedonomter.org), and [POTUSometer](http://compstorylab.org/potusometer/).
 
 
 ## Blog posts 
-* [Fuzzy geocoding](blog/post_1/post_1)
-* [POTUS sentiment](blog/post_2/post_2)
+* [Fuzzy geocoding of Twitter bios](blog/post_1/post_1)
+* [Trump and Biden sentiment](blog/post_2/post_2)
 
-## [About me](resume)
+### Contact: [twitter: @joshminot]()
+
+
 

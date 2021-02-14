@@ -28,6 +28,7 @@ was under or overcounting, at least relative to known state populations.
 Of course, comparing Twitter users (even if the geocoding was perfectly accurate) to state population is 
 a bit of funny comparison to make, but it was largely meant as a reference point. 
 
+
 After filtering out creative uses of emoji tuning the regular expression, the pipeline produces results that in some cases
 match what we'd expect based on state population data, and in others is clearly off. 
 For instance, California has both the largest tweeting population (by our measure) and is the most populous state. 
@@ -40,6 +41,7 @@ if users setting the district as their location given its large political crowd 
 Fig. 1: Comparison of geocoded US Twitter bio locations with 2012 US Census.
 
 ![](tweet_gain.html)
+
 
 
 #### References 

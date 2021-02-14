@@ -23,9 +23,12 @@ There have been other approaches proposed such as looking at the content of twee
 Others have used propogated location information across the social network in order to fill in missing
 geographic data [[1]](https://ojs.aaai.org/index.php/ICWSM/article/view/14399).
 
-The other approach that I've seen some colleagues explore involves fuzzy string matching in order to geocode
+Another approach involves fuzzy string matching in order to geocode
 the location string in user bios. 
-For this work I was focused on the US and used the python library [uszipcode](https://uszipcode.readthedocs.io/)[2].
+For this work I was focused on the US, although I don't filter the tweets (by language, etc.) before
+geocoding. 
+Some colleagues had used the python library [uszipcode](https://uszipcode.readthedocs.io/)[2] with varying degrees
+of success for specific projects, and I was curious what would happen if we ran a sample from our 10% historical Twitter feed through the fuzzy geocoding process.
 The library provides a convenient search engine for matching strings for cities and states with agaisnt known regions. 
 Using regular expressions I extracted user bios that roughly fit templates such as `city, state`, `city, state, country`, etc.
 

@@ -1,5 +1,11 @@
 ## Fuzzy Geocoding on Tweets
 
+_From a Friday afternoon project on geocoding Twitter-user bios. The results aren't near 
+ready for prime time but were also worth documenting._
+
+![Geocoded tweets per state over 2012 population](tweet_gain.png)
+Fig. 1: Tweets per state (determined by fuzzy geocoding) over state population (2012 Census).
+
 When analyzing social media data we often want to add a geographic element to the activity. 
 This isn't always so easy due to data availability and user practices with location disclosure. 
 Here I run over some preliminary results from my first experience with attempting fuzzy-string geocoding 
@@ -38,9 +44,9 @@ Washington, DC is a special case where geocoding seems to be somewhat unstable, 
 if users setting the district as their location given its large political crowd and number of commuters from surrounding states. 
 
 ![](Geoencoding_balance_2020MongoDB.png "Geobalance")
-Fig. 1: Comparison of geocoded US Twitter bio locations with 2012 US Census.
+Fig. 2: Comparison of geocoded US Twitter bio locations with 2012 US Census.
 
-![](tweet_gain.html)
+
 
 
 

@@ -3,7 +3,7 @@
 # Josh Minot
 #### Data science | NLP | sociotechnical systems
 
-I'm currently a PhD student [@uvmcomplexity](https://twitter.com/uvmcomplexity) in the [Computational Story Lab](https://twitter.com/compstorylab).
+I'm currently a PhD student at the [University of Vermont Complex Systems Center](https://twitter.com/uvmcomplexity) in the [Computational Story Lab](https://twitter.com/compstorylab).
 Broadly interested in the narrative capacities of social movements, data privacy, and interpretable ML. 
 
 
@@ -14,7 +14,6 @@ Broadly interested in the narrative capacities of social movements, data privacy
 * [Fuzzy geocoding of Twitter bios](blog/post_1/post_1)
 * [Trump and Biden sentiment](blog/post_2/post_2)
 
-### Contact: [twitter: @joshminot]()
 
 
 

@@ -11,7 +11,7 @@ Broadly interested in the narrative capacities of social movements, data privacy
 
 
 ## Blog posts 
-* [Fuzzy geocoding of Twitter bios](blog/post_1/post_1)
+* [Fuzzy geocoding of Twitter bios](blog/post_1/post_1.md)
 * [Trump and Biden sentiment](blog/post_2/post_2)
 
 

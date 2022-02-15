@@ -18,6 +18,8 @@ I research topics related to social media analysis, the narrative capacity of so
 
 - [**Storywrangler: A massive exploratorium for sociolinguistic, cultural, socioeconomic, and political timelines using Twitter**](https://www.science.org/doi/full/10.1126/sciadv.abe6534) 
 Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, Dodds PS. 2021 _Science advances_
+- [**Ratioing the President: An exploration of public engagement with Obama and Trump on Twitter**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248880)
+Minot JR, Arnold MV, Alshaabi T, Danforth CM, Dodds PS. 2021 _PLOS ONE_
 
 
 # Blog posts 

@@ -16,7 +16,8 @@ I research topics related to social media analysis, the narrative capacity of so
 
 # Selected publictions
 
-#### [Storywrangler: A massive exploratorium for sociolinguistic, cultural, socioeconomic, and political timelines using Twitter](https://www.science.org/doi/full/10.1126/sciadv.abe6534) Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, Dodds PS. 2021 _Science advances_
+#### [Storywrangler: A massive exploratorium for sociolinguistic, cultural, socioeconomic, and political timelines using Twitter](https://www.science.org/doi/full/10.1126/sciadv.abe6534) 
+Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, Dodds PS. 2021 _Science advances_
 
 
 # Blog posts 

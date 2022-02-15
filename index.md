@@ -23,7 +23,7 @@ Minot JR, Arnold MV, Alshaabi T, Danforth CM, Dodds PS. 2021 _PLOS ONE_
 Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, Dodds PS. 2021 _Science advances_
 
 - [**Interpretable bias mitigation for textual data: Reducing gender bias
-in patient notes while maintaining classification performance**] Minot JR, Cheney N, Maier M, Elbers DC, Danforth CM, Dodds PS. (2021) _arXiv_
+in patient notes while maintaining classification performance**](https://arxiv.org/pdf/2103.05841.pdf) Minot JR, Cheney N, Maier M, Elbers DC, Danforth CM, Dodds PS. (2021) _arXiv_
 
 
 

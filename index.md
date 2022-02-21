@@ -1,7 +1,5 @@
 ## [Home](index.md) | [Contact](contact.md)
 
-_"Our database is a house of shards"_
-
 #### Data science | NLP | time series analysis | computational social science 
 
 # About me
@@ -34,3 +32,4 @@ in patient notes while maintaining classification performance**](https://arxiv.o
 
 
 
+_"Our database is a house of shards"_

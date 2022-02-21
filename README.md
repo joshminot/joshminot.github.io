@@ -1,2 +1,2 @@
-# personal site
-## https://joshminot.github.io/
+# Personal site
+## [joshminot.github.io](https://joshminot.github.io/)

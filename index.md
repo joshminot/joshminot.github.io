@@ -15,10 +15,10 @@ I research topics related to social media analysis, the narrative capacity of so
 # Selected publications
 
 - [**Ratioing the President: An exploration of public engagement with Obama and Trump on Twitter**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248880)
-Minot JR, Arnold MV, Alshaabi T, Danforth CM, Dodds PS. 2021 _PLOS ONE_
+Minot JR, Arnold MV, Alshaabi T, Danforth CM, Dodds PS. (2021) _PLOS ONE_
 
 - [**Storywrangler: A massive exploratorium for sociolinguistic, cultural, socioeconomic, and political timelines using Twitter**](https://www.science.org/doi/full/10.1126/sciadv.abe6534) 
-Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, Dodds PS. 2021 _Science advances_
+Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, Dodds PS. (2021) _Science advances_
 
 - [**Interpretable bias mitigation for textual data: Reducing gender bias
 in patient notes while maintaining classification performance**](https://arxiv.org/pdf/2103.05841.pdf) Minot JR, Cheney N, Maier M, Elbers DC, Danforth CM, Dodds PS. (2021) _arXiv_

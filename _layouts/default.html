@@ -29,6 +29,9 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
+        
+        {% if site.twitter %}
+        <p class="view"><a href="https://twitter.com/{{site.twitter}}">Follow me on Twitter</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">

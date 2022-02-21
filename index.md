@@ -1,5 +1,7 @@
 ## [Home](index.md) | [Contact](contact.md)
 
+#### computational social science | NLP | time series analysis 
+
 # About me
 
 

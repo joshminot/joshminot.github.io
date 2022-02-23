@@ -14,10 +14,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="text-align:left"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="width:256px;height:256px;border-radius:50%;"  />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="width:256px;height:256px;"  />
         {% endif %}
 
         <p style="text-align:center">{{ site.description | default: Personal site }}</p>

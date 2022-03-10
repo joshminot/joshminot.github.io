@@ -1,6 +1,6 @@
 ## [Home](index.md) | [Contact](contact.md)
 
-#### computational social science | NLP | time series analysis 
+#### computational social science | NLP | time series analysis | algorithmic fairness
 
 # About me
 

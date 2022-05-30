@@ -23,7 +23,7 @@ Alshaabi T, Adams JL, Arnold MV, Minot JR, Dewhurst DR, Reagan AJ, Danforth CM, 
 - [**Interpretable bias mitigation for textual data: Reducing gender bias
 in patient notes while maintaining classification performance**](https://dl.acm.org/doi/pdf/10.1145/3524887) Minot JR, Cheney N, Maier M, Elbers DC, Danforth CM, Dodds PS. (2022) _ACM Healthcare_
 
-- [**Distinguishing in-groups and onlookers by language use**](https://aclanthology.org/2022.wassa-1.15/) Minot JR, Trujillo TZ, Rosenblatt SF, de Anda J\'auregui G, Samson BPV, Moog E, Dufresne LH, and Roth A. _Proceedings of the Twelfth Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (at ACL 2022)_.
+- [**Distinguishing in-groups and onlookers by language use**](https://aclanthology.org/2022.wassa-1.15/) Minot JR, Trujillo TZ, Rosenblatt SF, de Anda J\'auregui G, Samson BPV, Moog E, Dufresne LH, and Roth A. _Proceedings of the Twelfth Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (at ACL 2022)_. Winner of best paper 🎉 
 
 
 
